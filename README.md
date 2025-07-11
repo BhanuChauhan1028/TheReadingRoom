@@ -43,8 +43,6 @@ Welcome to the **Book Recommendation Chatbot** — a smart assistant that helps 
 🗣️ Conversational UI training projects
 
 
-projects
-
 🧑‍💻 Author
 Bhanu Chauhan
 Gmail-bhanuchauhan2810@gmail.com
