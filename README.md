@@ -30,9 +30,6 @@ Welcome to the **Book Recommendation Chatbot** — a smart assistant that helps 
 ├── README.md          # You're reading it!
 
 
-📷 Screenshots
-
-
 🙋‍♀️ Use Cases
 📚 Library or bookstore websites
 
